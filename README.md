@@ -11,7 +11,7 @@ la documentacion oficial puede encontrarse en [CreaTuPrimeraApp](https://ionicfr
 para correr el proyecto por favor siga estos pasos
 
 1. Clonar el [repositorio](https://github.com/JonathasCalderon/ionic-photo-gallery.git)
-2. Correr el comando ```npm install```
-3. Correr el comando ```ionic serve```
+2. Correr el comando `npm install`
+3. Correr el comando `ionic serve`
 
 
